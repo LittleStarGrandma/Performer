@@ -1,0 +1,9 @@
+[
+{"sectionID":1,"partID":1,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":1,"taskMemoOne":"1.关闭闹钟","taskMemoTwo":"","taskMemoThree":""},
+{"sectionID":1,"partID":2,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":2,"taskMemoOne":"1.左右移动","taskMemoTwo":"2.移动到便签处","taskMemoThree":""},
+{"sectionID":1,"partID":3,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":3,"taskMemoOne":"1.洗漱","taskMemoTwo":"2.换衣服","taskMemoThree":""},
+{"sectionID":1,"partID":4,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":4,"taskMemoOne":"1.关电脑","taskMemoTwo":"","taskMemoThree":""},
+{"sectionID":1,"partID":5,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":5,"taskMemoOne":"1.喂猫","taskMemoTwo":"","taskMemoThree":""},
+{"sectionID":1,"partID":6,"playerInX":0,"playerInY":0,"mapID":1,"mapDetailID":6,"taskMemoOne":"1.出门","taskMemoTwo":"","taskMemoThree":""}
+
+]

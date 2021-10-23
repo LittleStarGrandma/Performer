@@ -1,0 +1,8 @@
+[
+{"id":1,"leftImageExsit":false,"leftImagePath":"","rightImageExsit":false,"rightImagePath":"","content":"大家好，这是一段测试"},
+{"id":1,"leftImageExsit":false,"leftImagePath":"","rightImageExsit":false,"rightImagePath":"","content":"大家好，这第二段测试"},
+{"id":1,"leftImageExsit":true,"leftImagePath":"Plot/RawRes/test","rightImageExsit":false,"rightImagePath":"","content":"kkk"},
+{"id":2,"leftImageExsit":false,"leftImagePath":"","rightImageExsit":false,"rightImagePath":"","content":"大家好，这是一段测试"},
+{"id":2,"leftImageExsit":false,"leftImagePath":"","rightImageExsit":false,"rightImagePath":"","content":"大家好，这第二段测试"}
+
+]
